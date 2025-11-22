@@ -1,0 +1,15 @@
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.exe
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.deps.json
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.runtimeconfig.json
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.dll
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.pdb
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.AssemblyInfoInputs.cache
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.AssemblyInfo.cs
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.csproj.CoreCompileInputs.cache
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.sourcelink.json
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.dll
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\refint\TwoSumSolution.dll
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.pdb
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.genruntimeconfig.cache
+D:\GitHub\Solutions\LeetCode\Easy\1_TwoSum\TwoSumSolution\obj\Debug\net9.0\ref\TwoSumSolution.dll
